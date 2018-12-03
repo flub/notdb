@@ -1,0 +1,5 @@
+include LICENSE.rst
+include COPYING-GPL-3
+include CHANGELOG
+include tox.ini
+recursive-include tests *.py

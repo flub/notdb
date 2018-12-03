@@ -1,0 +1,17 @@
+# Patterns - files
+*.pyc
+*.pyo
+*.so
+
+# Patterns - directories
+__pycache__/
+*.egg-info/
+
+# Files
+.coverage
+
+# Directories
+.tox/
+.pytest_cache/
+build/
+dist/
